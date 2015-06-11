@@ -10,6 +10,26 @@ Author: Eddie Machado
 
 *******************************************************************
 
+This is a fork of the original Bones theme, into which I've dropped
+all my own personal tweaks and improvements - the fork was taken
+at 1.71, but my *intention* is to merge in any future changes as
+long as they don't break my own.
+
+My own changelog appears first; below that I have preserved the main
+Bones changelog up to 1.71 (and will update it to reflect any further
+changes I merge)
+
+Pete Favelle, 11th June 2015.
+
+/* 1.71-pf1 */
+- Removed all link-page handling.
+- Updated structured date to please Google's testing tool
+
+*******************************************************************
+
+Main Bones Changelog
+--------------------
+
 /* 1.71 update */
 - added spacing to the password fields (thx @murtaugh)
 - fixed calc percentage function

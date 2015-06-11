@@ -14,6 +14,9 @@ require_once( 'library/bones.php' );
 // CUSTOMIZE THE WORDPRESS ADMIN (off by default)
 // require_once( 'library/admin.php' );
 
+// LOAD ADDITIONS TO THE CORE BONES PACKAGE
+require_once( 'library/additions.php' );
+
 /*********************
 LAUNCH BONES
 Let's get everything up and running.
